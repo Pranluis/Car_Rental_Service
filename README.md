@@ -17,3 +17,6 @@ employee password = carrental
 You can add Cars in database which then show upto user side when they want see all available car.
 You can Delete can from database through program no need to go inside database table and delete it.
 And many more options.
+
+
+Fresh empty Database will form again after running code and you can add data inside database.
